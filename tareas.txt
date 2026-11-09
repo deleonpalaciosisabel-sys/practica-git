@@ -1,0 +1,3 @@
+"lista de tareas" 
+"1. aprender git add" 
+"2. aprender git commit" 
